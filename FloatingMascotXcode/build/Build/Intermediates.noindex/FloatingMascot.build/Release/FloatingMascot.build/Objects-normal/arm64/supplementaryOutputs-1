@@ -1,0 +1,12 @@
+{
+  "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/FloatingMascotApp/AnimationController.swift" : {
+    "abi-baseline-json" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Release/FloatingMascot.build/Objects-normal/arm64/FloatingMascot.abi.json",
+    "const-values" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Release/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-primary.swiftconstvalues",
+    "dependencies" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Release/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-primary.d",
+    "diagnostics" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Release/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-primary.dia",
+    "objc-header" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Release/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-Swift.h",
+    "swiftdoc" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Release/FloatingMascot.build/Objects-normal/arm64/FloatingMascot.swiftdoc",
+    "swiftmodule" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Release/FloatingMascot.build/Objects-normal/arm64/FloatingMascot.swiftmodule",
+    "swiftsourceinfo" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Release/FloatingMascot.build/Objects-normal/arm64/FloatingMascot.swiftsourceinfo"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "093ac89b6fe1eff39dc735141a0fcd81ff60e5d7106a242e19aa5743e590c4d3"
+    }
+  ],
+  "containerPath" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/FloatingMascot.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx27.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Products",
+      "derivedDataPath" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build",
+      "indexDataStoreFolderPath" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "90",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

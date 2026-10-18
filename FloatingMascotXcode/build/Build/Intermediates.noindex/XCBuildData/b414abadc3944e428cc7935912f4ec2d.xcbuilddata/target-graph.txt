@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'FloatingMascot' in project 'FloatingMascot'
+➜ Explicit dependency on target 'FloatingMascotWidgetExtension' in project 'FloatingMascot'
+Target 'FloatingMascotWidgetExtension' in project 'FloatingMascot' (no dependencies)

@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-primary.dia",
+    "emit-module-dependencies" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-primary-emit-module.dia",
+    "pch" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascot-primary.swiftdeps"
+  },
+  "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/FloatingMascotApp/FloatingMascotApp.swift" : {
+    "const-values" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascotApp.swiftconstvalues",
+    "dependencies" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascotApp.d",
+    "diagnostics" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascotApp.dia",
+    "index-unit-output-path" : "/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascotApp.o",
+    "llvm-bc" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascotApp.bc",
+    "object" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascotApp.o",
+    "swift-dependencies" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascotApp.swiftdeps",
+    "swiftmodule" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/FloatingMascotApp~partial.swiftmodule"
+  },
+  "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Intermediates.noindex/FloatingMascot.build/Debug/FloatingMascot.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

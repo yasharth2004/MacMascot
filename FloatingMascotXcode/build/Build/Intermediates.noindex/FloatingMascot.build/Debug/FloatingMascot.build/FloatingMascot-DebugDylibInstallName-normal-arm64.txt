@@ -1,0 +1,1 @@
+@rpath/FloatingMascot.debug.dylib

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>1CA2B91B-5485-44BF-A994-04D5701E4707</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CA2B91B-5485-44BF-A994-04D5701E4707.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FloatingMascot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FloatingMascot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FloatingMascot with scheme FloatingMascot and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>814048676.73376405</real>
+			<key>timeStoppedRecording</key>
+			<real>814048705.39874399</real>
+			<key>title</key>
+			<string>Building project FloatingMascot with scheme FloatingMascot and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>1CA2B91B-5485-44BF-A994-04D5701E4707</string>
+		</dict>
+		<key>75FD2A43-CACB-4BEC-B3AC-CCD5B9A54A4A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75FD2A43-CACB-4BEC-B3AC-CCD5B9A54A4A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FloatingMascot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FloatingMascot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FloatingMascot with scheme FloatingMascot and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>814049093.67348003</real>
+			<key>timeStoppedRecording</key>
+			<real>814049096.444754</real>
+			<key>title</key>
+			<string>Building project FloatingMascot with scheme FloatingMascot and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>75FD2A43-CACB-4BEC-B3AC-CCD5B9A54A4A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

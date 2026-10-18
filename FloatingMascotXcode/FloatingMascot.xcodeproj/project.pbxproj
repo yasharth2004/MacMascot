@@ -1,0 +1,452 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		040B561DB74A4DF8C8932E20 /* FloatingMascotWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F8C6C5DEC7FA37E63A1CE1 /* FloatingMascotWidget.swift */; };
+		0DA679934D381E96762E8B61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C6683963A1D909247BFCFEA /* Assets.xcassets */; };
+		2DAF40E9FF7A405D5D317E18 /* FloatingMascotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B89176F323A4ACC6111048F /* FloatingMascotApp.swift */; };
+		4F909E0EA0A8966DD560789A /* FloatingMascotWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 7B818370271829B677061343 /* FloatingMascotWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		86E155A6457450F01CF69F8E /* pic1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A7172C69BE32F526F5817A2 /* pic1.png */; };
+		C956614E4B28111BE4B5975A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED56AF5B21CFA5E6053EF429 /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E48A25CF066807B582F499BA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A675D7E8BF11F91AC0930681 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E422ECBE82F4DA4EF05E3AAA;
+			remoteInfo = FloatingMascotWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C7491AA34A23C7F3D28A616B /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				4F909E0EA0A8966DD560789A /* FloatingMascotWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3B89176F323A4ACC6111048F /* FloatingMascotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingMascotApp.swift; sourceTree = "<group>"; };
+		52F8C6C5DEC7FA37E63A1CE1 /* FloatingMascotWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingMascotWidget.swift; sourceTree = "<group>"; };
+		5A7172C69BE32F526F5817A2 /* pic1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pic1.png; sourceTree = "<group>"; };
+		5B625FD7A8FF5C942156CEAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		6C6683963A1D909247BFCFEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		73801323EAC053928F69CF6F /* FloatingMascot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FloatingMascot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B818370271829B677061343 /* FloatingMascotWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = FloatingMascotWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEBC4EE7DEF5261FE15BC365 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		ED56AF5B21CFA5E6053EF429 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		073263F5598F00FFE56D9D3B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				73801323EAC053928F69CF6F /* FloatingMascot.app */,
+				7B818370271829B677061343 /* FloatingMascotWidgetExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4B92C047DC24517145607FE1 = {
+			isa = PBXGroup;
+			children = (
+				67CB5798B10546A472DDF090 /* FloatingMascotApp */,
+				75B7793A42F0D113AEE56C3F /* FloatingMascotWidgetExtension */,
+				073263F5598F00FFE56D9D3B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		67CB5798B10546A472DDF090 /* FloatingMascotApp */ = {
+			isa = PBXGroup;
+			children = (
+				6C6683963A1D909247BFCFEA /* Assets.xcassets */,
+				3B89176F323A4ACC6111048F /* FloatingMascotApp.swift */,
+				DEBC4EE7DEF5261FE15BC365 /* Info.plist */,
+			);
+			path = FloatingMascotApp;
+			sourceTree = "<group>";
+		};
+		75B7793A42F0D113AEE56C3F /* FloatingMascotWidgetExtension */ = {
+			isa = PBXGroup;
+			children = (
+				ED56AF5B21CFA5E6053EF429 /* Assets.xcassets */,
+				52F8C6C5DEC7FA37E63A1CE1 /* FloatingMascotWidget.swift */,
+				5B625FD7A8FF5C942156CEAF /* Info.plist */,
+				5A7172C69BE32F526F5817A2 /* pic1.png */,
+			);
+			path = FloatingMascotWidgetExtension;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AFDE4F19C08630064012C83A /* FloatingMascot */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 529F357F1F2B2EDCD2B5D3B0 /* Build configuration list for PBXNativeTarget "FloatingMascot" */;
+			buildPhases = (
+				B9A424F07EB6D3EC05C37221 /* Sources */,
+				554E6B24016272A6616D8272 /* Resources */,
+				C7491AA34A23C7F3D28A616B /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				36D9ABF54DAB8EEF5F73529C /* PBXTargetDependency */,
+			);
+			name = FloatingMascot;
+			packageProductDependencies = (
+			);
+			productName = FloatingMascot;
+			productReference = 73801323EAC053928F69CF6F /* FloatingMascot.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E422ECBE82F4DA4EF05E3AAA /* FloatingMascotWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC617CFC87DAC312A294EF98 /* Build configuration list for PBXNativeTarget "FloatingMascotWidgetExtension" */;
+			buildPhases = (
+				5C08E698FB697F9704F7D8F2 /* Sources */,
+				E2B08FA0249288B9366569A7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FloatingMascotWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = FloatingMascotWidgetExtension;
+			productReference = 7B818370271829B677061343 /* FloatingMascotWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A675D7E8BF11F91AC0930681 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					AFDE4F19C08630064012C83A = {
+						ProvisioningStyle = Automatic;
+					};
+					E422ECBE82F4DA4EF05E3AAA = {
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 9CBF69A0B36BDAB81EDC0069 /* Build configuration list for PBXProject "FloatingMascot" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 4B92C047DC24517145607FE1;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 073263F5598F00FFE56D9D3B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AFDE4F19C08630064012C83A /* FloatingMascot */,
+				E422ECBE82F4DA4EF05E3AAA /* FloatingMascotWidgetExtension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		554E6B24016272A6616D8272 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0DA679934D381E96762E8B61 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2B08FA0249288B9366569A7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C956614E4B28111BE4B5975A /* Assets.xcassets in Resources */,
+				86E155A6457450F01CF69F8E /* pic1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5C08E698FB697F9704F7D8F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				040B561DB74A4DF8C8932E20 /* FloatingMascotWidget.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9A424F07EB6D3EC05C37221 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2DAF40E9FF7A405D5D317E18 /* FloatingMascotApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		36D9ABF54DAB8EEF5F73529C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E422ECBE82F4DA4EF05E3AAA /* FloatingMascotWidgetExtension */;
+			targetProxy = E48A25CF066807B582F499BA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		103E8703EF4DCA7503737471 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = FloatingMascotWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = FloatingMascotWidgetExtension/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yasharth.mascot.app.widget;
+				SDKROOT = macosx;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		9DA3672E9CBFC7115344FFB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		9EC165DDDD5148262A152224 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = FloatingMascotWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = FloatingMascotWidgetExtension/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yasharth.mascot.app.widget;
+				SDKROOT = macosx;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		ABFACBB2A1FA9AAE649F0CD6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		D151C5BFB25330B4DE25E75C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = FloatingMascotApp.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = FloatingMascotApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yasharth.mascot.app;
+				SDKROOT = macosx;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		D6525C4B3CE461C7C61F437F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = FloatingMascotApp.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = FloatingMascotApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yasharth.mascot.app;
+				SDKROOT = macosx;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		529F357F1F2B2EDCD2B5D3B0 /* Build configuration list for PBXNativeTarget "FloatingMascot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D151C5BFB25330B4DE25E75C /* Debug */,
+				D6525C4B3CE461C7C61F437F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		9CBF69A0B36BDAB81EDC0069 /* Build configuration list for PBXProject "FloatingMascot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DA3672E9CBFC7115344FFB3 /* Debug */,
+				ABFACBB2A1FA9AAE649F0CD6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		FC617CFC87DAC312A294EF98 /* Build configuration list for PBXNativeTarget "FloatingMascotWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9EC165DDDD5148262A152224 /* Debug */,
+				103E8703EF4DCA7503737471 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A675D7E8BF11F91AC0930681 /* Project object */;
+}

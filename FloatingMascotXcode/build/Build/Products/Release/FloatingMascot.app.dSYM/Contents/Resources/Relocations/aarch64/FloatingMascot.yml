@@ -1,0 +1,24 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Products/Release/FloatingMascot.app/Contents/MacOS/FloatingMascot'
+relocations:
+  - { offset: 0xABE6F, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot0aB3AppVAC7SwiftUI0C0AAWl', symObjAddr: 0x920, symBinAddr: 0x100001850, symSize: 0x40 }
+  - { offset: 0xABE83, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot0aB3AppVMa', symObjAddr: 0x960, symBinAddr: 0x100001890, symSize: 0x10 }
+  - { offset: 0xABE97, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot0aB3AppV7SwiftUI0C0AA4BodyAdEP_AD5ScenePWT', symObjAddr: 0x970, symBinAddr: 0x1000018A0, symSize: 0x10 }
+  - { offset: 0xABEAB, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameV2, symObjAddr: 0x980, symBinAddr: 0x1000018B0, symSize: 0x50 }
+  - { offset: 0xABEBF, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI15ModifiedContentVyAA6VStackVyAA9TupleViewVyACyACyAA5ImageVAA18_AspectRatioLayoutVGAA06_FrameK0VG_AA4TextVACyACyACyAqA30_EnvironmentKeyWritingModifierVyAA0M9AlignmentOGGAA016_ForegroundStyleQ0VyAA017HierarchicalShapeT0VGGAA08_PaddingK0VGtGGANGACyxq_GAA0G0A2AA9_RzAA0gQ0R_rlWl', symObjAddr: 0x9D0, symBinAddr: 0x100001900, symSize: 0x98 }
+  - { offset: 0xABED3, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstractV2, symObjAddr: 0xA68, symBinAddr: 0x100001998, symSize: 0x54 }
+  - { offset: 0xABEE7, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4TextV7StorageOWOe', symObjAddr: 0xB00, symBinAddr: 0x100001A30, symSize: 0x18 }
+  - { offset: 0xABEFB, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI17EnvironmentValuesV22multilineTextAlignmentAA0fG0OvpACTKq', symObjAddr: 0xB18, symBinAddr: 0x100001A48, symSize: 0x28 }
+  - { offset: 0xABF13, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI17EnvironmentValuesV22multilineTextAlignmentAA0fG0OvpACTkq', symObjAddr: 0xB40, symBinAddr: 0x100001A70, symSize: 0x24 }
+  - { offset: 0xABF2B, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4TextV7StorageOWOy', symObjAddr: 0xB64, symBinAddr: 0x100001A94, symSize: 0x18 }
+  - { offset: 0xABF4B, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot0aB3AppV4bodyQrvg', symObjAddr: 0x0, symBinAddr: 0x100000F30, symSize: 0x234 }
+  - { offset: 0xABF81, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot0aB3AppV4bodyQrvg7SwiftUI4ViewPAEE5frame5width6height9alignmentQr12CoreGraphics7CGFloatVSg_AoE9AlignmentVtFQOyAE6VStackVyAE05TupleG0VyAgEEAhijKQrAO_AoQtFQOyAgEE11aspectRatio_11contentModeQrAO_AE07ContentU0OtFQOyAE5ImageV_Qo__Qo__AE4TextVAgEE7paddingyQrAE4EdgeO3SetV_AOtFQOyAgEE15foregroundStyleyQrqd__AE10ShapeStyleRd__lFQOyAgEE09multilinexO0yQrAE0xO0OFQOyA3__Qo__AE22HierarchicalShapeStyleVQo__Qo_tGG_Qo_ycfU_', symObjAddr: 0x234, symBinAddr: 0x100001164, symSize: 0x158 }
+  - { offset: 0xAC054, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot0aB3AppV4bodyQrvg7SwiftUI4ViewPAEE5frame5width6height9alignmentQr12CoreGraphics7CGFloatVSg_AoE9AlignmentVtFQOyAE6VStackVyAE05TupleG0VyAgEEAhijKQrAO_AoQtFQOyAgEE11aspectRatio_11contentModeQrAO_AE07ContentU0OtFQOyAE5ImageV_Qo__Qo__AE4TextVAgEE7paddingyQrAE4EdgeO3SetV_AOtFQOyAgEE15foregroundStyleyQrqd__AE10ShapeStyleRd__lFQOyAgEE09multilinexO0yQrAE0xO0OFQOyA3__Qo__AE22HierarchicalShapeStyleVQo__Qo_tGG_Qo_ycfU_A19_yXEfU_', symObjAddr: 0x38C, symBinAddr: 0x1000012BC, symSize: 0x558 }
+  - { offset: 0xAC51A, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot0aB3AppV7SwiftUI0C0AadEP4body4BodyQzvgTW', symObjAddr: 0x8E4, symBinAddr: 0x100001814, symSize: 0x4 }
+  - { offset: 0xAC539, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot0aB3AppV7SwiftUI0C0AadEPxycfCTW', symObjAddr: 0x8E8, symBinAddr: 0x100001818, symSize: 0x4 }
+  - { offset: 0xAC56A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x8EC, symBinAddr: 0x10000181C, symSize: 0x34 }
+  - { offset: 0xAC7BF, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot19ResourceBundleClass33_EDB68BB303268977DEA6214D34190B4CLLCfD', symObjAddr: 0x0, symBinAddr: 0x100001BB0, symSize: 0x10 }
+  - { offset: 0xAC801, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot19ResourceBundleClass33_EDB68BB303268977DEA6214D34190B4CLLCMa', symObjAddr: 0x10, symBinAddr: 0x100001BC0, symSize: 0x20 }
+  - { offset: 0xAC821, size: 0x8, addend: 0x0, symName: '_$s14FloatingMascot19ResourceBundleClass33_EDB68BB303268977DEA6214D34190B4CLLCfD', symObjAddr: 0x0, symBinAddr: 0x100001BB0, symSize: 0x10 }
+...
