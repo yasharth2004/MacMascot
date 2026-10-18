@@ -6,7 +6,7 @@
 	<integer>13</integer>
 	<key>logs</key>
 	<dict>
-		<key>1CA2B91B-5485-44BF-A994-04D5701E4707</key>
+		<key>0107C8BA-FAAC-49CD-BA03-58D8F618360E</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1CA2B91B-5485-44BF-A994-04D5701E4707.xcactivitylog</string>
+			<string>0107C8BA-FAAC-49CD-BA03-58D8F618360E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,13 +40,13 @@
 			<key>signature</key>
 			<string>Building project FloatingMascot with scheme FloatingMascot and configuration Release</string>
 			<key>timeStartedRecording</key>
-			<real>814048676.73376405</real>
+			<real>814056655.66321802</real>
 			<key>timeStoppedRecording</key>
-			<real>814048705.39874399</real>
+			<real>814056666.53842199</real>
 			<key>title</key>
 			<string>Building project FloatingMascot with scheme FloatingMascot and configuration Release</string>
 			<key>uniqueIdentifier</key>
-			<string>1CA2B91B-5485-44BF-A994-04D5701E4707</string>
+			<string>0107C8BA-FAAC-49CD-BA03-58D8F618360E</string>
 		</dict>
 		<key>75FD2A43-CACB-4BEC-B3AC-CCD5B9A54A4A</key>
 		<dict>

@@ -25,34 +25,34 @@ The widget automatically cycles through high-resolution, full-color mascot poses
   <table>
     <tr>
       <td align="center" width="16.6%" valign="bottom">
-        <img src="Images/pic1.png" height="140" alt="Pose 1" /><br />
+        <img src="Images/pic1.png" width="105" alt="Pose 1" /><br />
         <b>Pose 1</b><br />
-        <sub>Happy Welcome</sub>
+        <small>Happy&nbsp;Welcome</small>
       </td>
       <td align="center" width="16.6%" valign="bottom">
-        <img src="Images/pic2.png" height="124" alt="Pose 2" /><br />
+        <img src="Images/pic2.png" width="105" alt="Pose 2" /><br />
         <b>Pose 2</b><br />
-        <sub>Deep Focus</sub>
+        <small>Deep&nbsp;Focus</small>
       </td>
       <td align="center" width="16.6%" valign="bottom">
-        <img src="Images/pic3.png" height="130" alt="Pose 3" /><br />
+        <img src="Images/pic3.png" width="105" alt="Pose 3" /><br />
         <b>Pose 3</b><br />
-        <sub>Cheering On</sub>
+        <small>Cheering&nbsp;On</small>
       </td>
       <td align="center" width="16.6%" valign="bottom">
-        <img src="Images/pic7.png" height="110" alt="Pose 7" /><br />
+        <img src="Images/pic7.png" width="105" alt="Pose 7" /><br />
         <b>Pose 7</b><br />
-        <sub>Playful Joy</sub>
+        <small>Playful&nbsp;Joy</small>
       </td>
       <td align="center" width="16.6%" valign="bottom">
-        <img src="Images/pic8.png" height="110" alt="Pose 8" /><br />
+        <img src="Images/pic8.png" width="105" alt="Pose 8" /><br />
         <b>Pose 8</b><br />
-        <sub>Chill Snack</sub>
+        <small>Chill&nbsp;Snack</small>
       </td>
       <td align="center" width="16.6%" valign="bottom">
-        <img src="Images/pic9.png" height="105" alt="Pose 9" /><br />
+        <img src="Images/pic9.png" width="105" alt="Pose 9" /><br />
         <b>Pose 9</b><br />
-        <sub>Night Owl</sub>
+        <small>Night&nbsp;Owl</small>
       </td>
     </tr>
   </table>
@@ -161,12 +161,12 @@ The widget generates a 24-hour timeline that automatically updates every 30 minu
 
 | Slot | Mascot Pose | Preview | Active Interval |
 | :---: | :---: | :---: | :--- |
-| **01** | `pic1` | <img src="Images/pic1.png" height="70" alt="pic1" /> | `00:00 – 00:30` |
-| **02** | `pic2` | <img src="Images/pic2.png" height="62" alt="pic2" /> | `00:30 – 01:00` |
-| **03** | `pic3` | <img src="Images/pic3.png" height="65" alt="pic3" /> | `01:00 – 01:30` |
-| **04** | `pic7` | <img src="Images/pic7.png" height="55" alt="pic7" /> | `01:30 – 02:00` |
-| **05** | `pic8` | <img src="Images/pic8.png" height="55" alt="pic8" /> | `02:00 – 02:30` |
-| **06** | `pic9` | <img src="Images/pic9.png" height="52" alt="pic9" /> | `02:30 – 03:00` |
+| **01** | `pic1` | <img src="Images/pic1.png" width="55" alt="pic1" /> | `00:00 – 00:30` |
+| **02** | `pic2` | <img src="Images/pic2.png" width="55" alt="pic2" /> | `00:30 – 01:00` |
+| **03** | `pic3` | <img src="Images/pic3.png" width="55" alt="pic3" /> | `01:00 – 01:30` |
+| **04** | `pic7` | <img src="Images/pic7.png" width="55" alt="pic7" /> | `01:30 – 02:00` |
+| **05** | `pic8` | <img src="Images/pic8.png" width="55" alt="pic8" /> | `02:00 – 02:30` |
+| **06** | `pic9` | <img src="Images/pic9.png" width="55" alt="pic9" /> | `02:30 – 03:00` |
 | 🔄 | *(Repeats)* | — | *(Cycles back to `pic1`)* |
 
 ### Customizing the Rotation Interval

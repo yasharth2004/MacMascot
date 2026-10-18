@@ -18,3 +18,4 @@
 /Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Products/Release/FloatingMascot.app
 /Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Products/Release/FloatingMascot.app
 /Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Products/Release/FloatingMascot.app
+/Users/yasharthkesarwani/Downloads/MascotYasharthKesarwani/FloatingMascotXcode/build/Build/Products/Release/FloatingMascot.app
