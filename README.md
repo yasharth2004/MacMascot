@@ -20,6 +20,7 @@ A native macOS 1×1 desktop widget built with **SwiftUI** and **WidgetKit** that
 ```
 MascotYasharthKesarwani/
 ├── README.md                                 # Project documentation
+├── LICENSE                                   # MIT License
 ├── Images/                                   # Original high-res mascot PNGs
 │   ├── pic1.png
 │   ├── pic2.png
@@ -113,4 +114,9 @@ After modifying, re-run `./build.sh`.
 - **Sandboxing Requirement:** macOS Sonoma/Sequoia's `chronod` requires all WidgetKit extensions to include the `com.apple.security.app-sandbox` entitlement. This is defined in `FloatingMascotXcode/project.yml` under `entitlements.properties` so it persists whenever `xcodegen` regenerates the project.
 - **Original Color Preservation:** To prevent macOS from converting mascot frames into monochrome silhouettes in dark or tinted desktop modes, all asset catalogs specify `"template-rendering-intent": "original"` in their `Contents.json`, and SwiftUI renders with `.renderingMode(.original)`.
 - **System Card Plate:** macOS desktop widgets are rendered inside an OS-level container plate by `NotificationCenter`. While `.containerBackground(for: .widget) { Color.clear }` clears all custom background styles inside the widget, the underlying squircle frame is controlled by macOS system settings (**System Settings → Desktop & Dock → Widgets → Widget style**).
-# MacMascot
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
